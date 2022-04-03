@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yslamguly
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning C#, ASP .net core
 - 📫 How to reach me? E-mail: islamguly28@gmail.com
 
 <!---
