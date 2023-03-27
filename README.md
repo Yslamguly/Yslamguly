@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi, I'm Yslamguly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/chakravarthi-v/](https://www.linkedin.com/in/yslamguly/)">
+  <a href="https://www.linkedin.com/in/yslamguly/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
   <a href="mailto:islamguly28@gmail.com">
