@@ -25,17 +25,17 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/chakravarthi-v">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yslamguly&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
-  <a href="https://github.com/chakravarthi-v">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
+  <a href="https://github.com/Yslamguly">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yslamguly&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Yslamguly's github stats" height="220px" />
   </a>
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=chakravarthi-v.408179647)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yslamguly.408179647)
 
 ------
 
-Credit: [chakravarthi-v](https://github.com/chakravarthi-v)
+Credit: [Yslamguly](https://github.com/Yslamguly)
 
 Last Edited on: 20/09/2021
 
