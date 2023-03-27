@@ -6,7 +6,7 @@
 Yslamguly/Yslamguly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi, I'm Chakravarthi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi, I'm Yslamguly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chakravarthi-v/">
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Junior Computer Science Undergrad at SRM Institute of Science and Technology who is currently learning MERN stack web development</h3>
+<h3 align="center">A Junior Computer Science Undergrad at <a href="https://uni-eszterhazy.hu">Eszterhazy Károly Catholic University</a> who is currently learning MERN stack web development</h3>
 
 <br>
 
