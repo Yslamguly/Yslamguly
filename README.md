@@ -35,7 +35,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.
 
 ------
 
-Credit: [Yslamguly](https://github.com/Yslamguly)
-
-Last Edited on: 27/03/2023
+Last Edited on: 28/03/2023
 
