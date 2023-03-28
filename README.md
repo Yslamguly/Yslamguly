@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align="center">A Computer Science Undergrad at <a href="https://uni-eszterhazy.hu">EKCU</a> who is currently learning .NET, ReactJs and NodeJs.</h3>
 
+<h4>I am actively seeking for a position where I can apply my current skills and grow as a software developer. I'm always open to connecting with other developers and discussing potential collaborations!</h4>
 <br>
 
 ---
