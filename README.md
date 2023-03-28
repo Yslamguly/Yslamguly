@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Yslamguly
-- 👀 I’m interested in web-development
-- 📫 How to reach me? E-mail: islamguly28@gmail.com
-
----
-💻 Main Tech Stack
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="psql logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="40" height="40" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql logo" with="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="40" height="40" />
 <!---
 Yslamguly/Yslamguly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,6 +15,12 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A Computer Science Undergrad at <a href="https://uni-eszterhazy.hu">EKCU</a> who is currently learning .NET, ReactJs and NodeJs.</h3>
 
 <br>
+
+---
+💻 Main Tech Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="psql logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="40" height="40" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql logo" with="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="40" height="40" />
 
 <br>
 
