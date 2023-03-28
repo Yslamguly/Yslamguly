@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Junior Computer Science Undergrad at <a href="https://uni-eszterhazy.hu">EKCU</a> who is currently learning .NET, ReactJs and NodeJs.</h3>
+<h3 align="center">A Computer Science Undergrad at <a href="https://uni-eszterhazy.hu">EKCU</a> who is currently learning .NET, ReactJs and NodeJs.</h3>
 
 <br>
 
