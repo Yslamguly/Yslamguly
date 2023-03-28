@@ -30,10 +30,3 @@ src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.
   <a href="https://github.com/Yslamguly">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yslamguly&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Yslamguly's github stats" height="220px" />
   </a>
-
-
-
-------
-
-Last Edited on: 28/03/2023
-
